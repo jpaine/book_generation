@@ -52,7 +52,7 @@ echo -e "${GREEN}Book Information:${NC}"
 prompt "Book title" "" "BOOK_TITLE"
 prompt "Book subtitle (optional)" "" "BOOK_SUBTITLE"
 prompt "Author name (optional)" "" "BOOK_AUTHOR"
-prompt "Publisher name" "56 Press" "BOOK_PUBLISHER"
+prompt "Publisher name" "Your Publisher" "BOOK_PUBLISHER"
 prompt "Publication date" "2025" "BOOK_DATE"
 prompt "Language code" "en-US" "BOOK_LANGUAGE"
 
