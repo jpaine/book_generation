@@ -330,7 +330,7 @@ book_content/
 **1. Initial Setup (One Time Per Book)**
 ```bash
 # Clone the template
-git clone https://github.com/jpaine/book_56Press.git my-book-name
+git clone https://github.com/jpaine/book_generation.git my-book-name
 cd my-book-name
 
 # Install dependencies
@@ -678,7 +678,7 @@ Once you have all your markdown files written, use this engine to generate profe
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/jpaine/book_56Press.git my-book-name
+   git clone https://github.com/jpaine/book_generation.git my-book-name
    cd my-book-name
    ```
 
